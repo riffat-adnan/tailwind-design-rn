@@ -1,0 +1,109 @@
+@tailwind utilities;
+
+@tailwind base;
+@tailwind components;
+
+@layer components {
+  .logo {
+    @apply w-[180] h-[180];
+  }
+  .logoLeft {
+    @apply w-[180] h-[180] self-start	
+  }
+  .appButton {
+    @apply w-[85%] h-[40] bg-p1 justify-center items-center rounded-md self-center my-3;
+  }
+  .appButtonPink {
+    @apply w-[85%] h-[40] bg-p3 justify-center items-center rounded-md self-center my-3;
+  }
+  .appButtonText {
+    @apply text-white font-interSemibold text-base;
+  }
+  .appButtonTextPink {
+    @apply text-p2 font-interSemibold text-base;
+  }
+  .onboardingTitle {
+    @apply text-black font-interBold self-center mt-10 text-3xl;
+  }
+  .onboardingTitleCenter {
+    @apply text-black font-interBold self-center mt-10 text-3xl text-center
+  }
+  .onboardingImage {
+    @apply w-60 h-40 self-center;
+  }
+  .onboardingDesc {
+    @apply text-black font-interRegular mt-5 text-base self-center text-center;
+  }
+  .backArrow {
+    @apply w-[20] h-[20];
+  }
+  .iconStyle25 {
+    @apply w-[25] h-[25];
+  }
+  .backArrow1 {
+    @apply w-[20] h-[20] my-3 mx-2
+  }
+  .inputLabel {
+    @apply text-grey1 font-interRegular text-sm font-medium	px-1 py-0.5
+  }
+  .inputContainerStyle{
+    @apply border-grey2 rounded-lg border px-2
+  }
+  .placeholder {
+    @apply text-placeholder
+  }
+  .inputText {
+    @apply text-sm font-normal text-black font-interRegular
+  }
+  .inputContainer {
+    @apply  w-[90%] m-6
+  }
+  .pinkMedium {
+    @apply text-p2 text-sm font-medium px-1 font-interMedium my-3
+  }
+  .pinkCenter {
+    @apply text-p2 text-sm font-medium px-1 font-interMedium my-3 self-center
+  }
+  .greyMedium {
+    @apply text-grey3 text-sm font-medium font-interRegular my-3
+  }
+  .logoImage{
+    @apply  w-[60] h-[60]
+  }
+  .logoImageLeft{
+    @apply  w-[60] h-[60] mx-6 self-start	
+  }
+  .authTitle {
+    @apply text-black1 text-2xl	font-interBold text-center	my-3
+  }
+  .authTitleLeft {
+    @apply text-black1 text-2xl	font-interBold text-left	my-3 mx-6 self-start	
+  }
+  .iconButton {
+    @apply w-[85%] h-[40] justify-center items-center rounded-lg border border-grey2 flex-row	
+  }
+  .hearIconButton {
+    @apply w-[88%] h-[55]  items-center rounded-lg border border-grey2 flex-row	my-3 self-center	px-3
+  }
+  .buttonIcon {
+    @apply w-[15] h-[15]
+  }
+  .iconButtonText {
+    @apply text-grey1 text-base	font-interSemibold px-3
+  }
+  .hearButtonText {
+    @apply text-grey1 text-sm	font-interMedium px-3
+  }
+  .subHeading {
+     @apply text-grey3 text-base	font-interRegular px-6 text-left
+  }
+  .subHeading1 {
+     @apply text-grey3 text-sm	font-interRegular my-3 mx-6 text-left self-start	
+  }
+  .subHeadingCenter {
+     @apply text-grey3 text-sm	font-interRegular my-3 mx-6 text-left self-center text-center	
+  }
+  .agreeText {
+     @apply text-grey3 text-xs font-interRegular px-3  text-left my-2 mb-5
+  }
+}
