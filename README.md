@@ -112,11 +112,11 @@ module.exports = {
 
 | Login Page                                | Onboarding Page                          |
 |--------------------------------------------|---------------------------------------------|
-| ![Screenshot_1725633917](https://github.com/user-attachments/assets/472e4743-8611-44dd-8771-02f5444027bd) | ![Screenshot_1725633850](https://github.com/user-attachments/assets/74e9c546-5e4f-4a8d-9c20-50164d05c07e) |
+| ![Screenshot_1725633917](https://github.com/user-attachments/assets/e1735616-57a8-4f73-8f37-fa5e06371642) | ![Screenshot_1725633850](https://github.com/user-attachments/assets/ad3e119f-e5e0-4d9d-a427-d9448034ce55) |
 
 | Onboarding Page              | Signup Page               |
 |--------------------------------------------|---------------------------------------------|
-| ![Screenshot_1725633844](https://github.com/user-attachments/assets/5280dd1b-d77a-432d-acd3-b759d1b46334) | ![Screenshot_1725634531](https://github.com/user-attachments/assets/c9f91b5e-1d38-438f-8e54-9b6189e53cd7) |
+| ![Screenshot_1725633844](https://github.com/user-attachments/assets/aebd2452-7a42-41bd-8152-1999ba272db3) | ![Screenshot_1725634531](https://github.com/user-attachments/assets/c4966c14-e02c-4ce1-80a3-e428bf7b3497) |
 
 
 
@@ -148,7 +148,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by [alizee].
+Built with ❤️ by [riffatadnan].
 ```
 
 ### Key Additions:
