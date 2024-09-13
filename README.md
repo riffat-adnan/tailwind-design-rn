@@ -149,11 +149,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Built with ❤️ by [riffatadnan].
-```
-
-### Key Additions:
-1. **Screenshot Section**: 
-   - Added placeholders for the screenshots, where you can insert images showcasing the key screens of your app.
-   - Make sure to replace `link-to-home-screenshot` and other placeholders with the actual image URLs.
-
-This setup helps visually communicate the features and look of the app!
